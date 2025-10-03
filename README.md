@@ -77,13 +77,19 @@ Achieved:
 🛠️ Installation & Usage
 
  1. Clone the repository
+    
   -> git clone https://github.com/your-username/fraud-detection.git
 cd fraud-detection
+
  2. Create a virtual environment
+    
   -> python -m venv venv
+  
 source venv/bin/activate   # On macOS/Linux
+
 venv\Scripts\activate      # On Windows
-3. Run the notebook
+
+ 3. Run the notebook
   ->jupyter notebook Fraud_Detection.ipynb
     
 📌 Future Improvements
