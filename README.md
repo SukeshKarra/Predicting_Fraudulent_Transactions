@@ -17,13 +17,12 @@ Compare models using metrics like accuracy, precision, recall, F1-score, and ROC
 Provide a reproducible and scalable solution for fraud detection.
 
 📂 Project Structure
-├── Fraud_Detection.ipynb # Jupyter Notebook with full code
 
-├── README.md               # Project documentation (this file)
+├── Fraud_Detection.ipynb    # Jupyter Notebook with full code
 
-├── requirements.txt        # Dependencies (to be added)
+├── README.md                # Project documentation (this file)
 
-└── data/                   # Dataset folder (if applicable)
+└── data/                    # Dataset folder (if applicable)
 
 📊 Methodology
 
@@ -84,9 +83,7 @@ cd fraud-detection
   -> python -m venv venv
 source venv/bin/activate   # On macOS/Linux
 venv\Scripts\activate      # On Windows
- 3. Install dependencies
-  -> pip install -r requirements.txt
- 4. Run the notebook
+3. Run the notebook
   ->jupyter notebook Fraud_Detection.ipynb
     
 📌 Future Improvements
