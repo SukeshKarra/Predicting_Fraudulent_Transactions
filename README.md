@@ -17,9 +17,12 @@ Compare models using metrics like accuracy, precision, recall, F1-score, and ROC
 Provide a reproducible and scalable solution for fraud detection.
 
 📂 Project Structure
-├── Fraud_Detection.ipynb   # Jupyter Notebook with full code
+├── Fraud_Detection.ipynb # Jupyter Notebook with full code
+
 ├── README.md               # Project documentation (this file)
+
 ├── requirements.txt        # Dependencies (to be added)
+
 └── data/                   # Dataset folder (if applicable)
 
 📊 Methodology
