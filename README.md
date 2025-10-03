@@ -1,4 +1,5 @@
 Fraudulent Transaction Detection
+
 📌 Project Overview
 
 Financial fraud is a critical challenge in today’s digital economy. This project develops a machine learning model to detect fraudulent transactions for a financial company. By analyzing transaction patterns, the model distinguishes between legitimate and fraudulent activities, helping financial institutions minimize losses and improve trust.
